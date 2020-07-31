@@ -1,1 +1,0 @@
-# nytezerak.github.io
