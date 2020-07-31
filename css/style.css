@@ -1,0 +1,73 @@
+#logo{
+	width: 140%;
+	margin-top: -10%;
+}
+nav{
+	background-color: #056441;
+	height: 60px;
+	width: 100%;
+
+}
+nav div ul li{
+	display: inline-block;
+	margin: 0 5px;
+	margin-left: 6%;
+	margin-top: 3px;
+
+}
+nav div ul li a{
+	display: inline;
+	font-size: 20px;
+	padding: 7px 13px;
+	float: left;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	margin-top: 8px;
+}
+li a:active, li a:hover{
+	color: #C0C0C0;
+	text-decoration: none;
+}
+#corpo{
+	width: 94%;	
+	margin-right: 3%;
+	margin-left: 3%;	
+	text-decoration: none;
+}
+.row{
+	align-self: center;
+}
+#clinica{
+	max-width: 100%;
+}
+#linha{
+  border: 10px solid #056441;
+  border-radius: 5px;
+  width: 95%;
+  float: left;
+}
+#textodir{
+	text-align: justify;
+	padding-top: -20%;
+}
+#doggy{
+	width: 100%;
+}
+#porquin{
+	width: 35%;
+	float: left;
+	padding-right: 5px;
+}
+#imgrodape{
+	height: 10%;
+}
+#media{
+	height: 4%;
+	padding-bottom: 2px;
+}
+#imgesquerda{
+	width: 90%;
+	text-align: center;
+}
+
+
